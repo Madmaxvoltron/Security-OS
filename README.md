@@ -1,5 +1,7 @@
 # Security-OS
 this is the security os to manage ur systems
+
+based on cosmos os
 ## how to get ur accses key
 to get accses to ur testing key go to [SecurityKEY](https://github.com/Madmaxvoltron/SecurityKEY)
 there a just need to download the .exe to get ur key
